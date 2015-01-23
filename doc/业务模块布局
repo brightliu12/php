@@ -1,0 +1,30 @@
+/index
+/index/index/index			首页
+
+/job						职位模块
+/job/index/search			职位搜索
+/job/index/show				职位详情
+/job/apply/search			申请列表
+/job/apply/add				添加申请
+
+/content					内容模块
+
+/content/collect/search		收藏列表
+/content/collect/add		添加收藏
+
+/content/subscribe/add		添加订阅
+/content/subscribe/search	订阅列表
+/content/subscribe/delete	删除订阅
+/content/subscribe/edit		修改订阅
+/content/subscribe/result	订阅结果
+
+/user						会员模块
+/user/index/index			注册登录
+/user/index/login			会员登录
+/user/index/reg				会员注册
+/user/index/logout			注销退出
+/user/index/password		忘记密码
+
+/OpenApi					开放平台
+/OpenApi/Login/Weibo		微博登录
+/OpenApi/Login/Renren		人人登录

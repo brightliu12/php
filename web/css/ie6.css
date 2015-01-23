@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.index-login-form{margin:10px}
+.form-horizontal .controls{margin:0px;padding:0px;overflow:hidden}
+
+.modal{position:absolute;top:10%;}
+a.forget-password{padding-right:0px}
+.form-horizontal .control-label {text-align: left;width: 100px;}
+.index-login-right{margin-bottom:0px}
+.model-submit{width:100px}
+#searchAdvance{display:none}
+.job-search-icon{float:left;margin-top:20px}
+#main-operate .control-label,#main-operate .control-field{float:left}
+.progress,.step{width:810px;}
+.step .step4,.step .step1{width:130px}
+

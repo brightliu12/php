@@ -1,0 +1,8 @@
+所有接口类名，以'I'未前缀
+ICommon
+
+如果和现有类重名，则类名+类别名
+use User\Model\Sex as ModelSex;
+
+数据库集合变量
+$this->cUser = new collection ( 'user' );

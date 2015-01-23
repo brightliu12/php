@@ -1,0 +1,22 @@
+城市
+	Index\Model\City
+
+简历
+	Resume\Model\Resume
+	Resume\Model\Category
+
+
+职位
+	Job
+
+公司
+
+关注
+
+赞扬
+
+会员
+
+通知
+
+意向Offer 
